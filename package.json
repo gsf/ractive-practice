@@ -9,7 +9,7 @@
     "url": "git://github.com/gsf/ractive-practice.git"
   },
   "dependencies": {
-    "send": "~0.1.3"
+    "ecstatic": "~0.4.5"
   },
   "engines": {
     "node": "~0.10.13"
