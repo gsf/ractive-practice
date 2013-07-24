@@ -1,0 +1,17 @@
+{
+  "name": "ractive-practice",
+  "version": "0.0.0",
+  "description": "Playing with Ractive",
+  "homepage": "https://github.com/gsf/ractive-practice",
+  "author": "Gabriel Farrell <g@grrawr.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gsf/ractive-practice.git"
+  },
+  "dependencies": {
+    "send": "~0.1.3"
+  },
+  "engines": {
+    "node": "~0.10.13"
+  }
+}
