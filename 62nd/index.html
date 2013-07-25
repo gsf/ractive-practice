@@ -1,10 +1,15 @@
 <!doctype html>
-<html lang='en-GB'>
+<html>
   <head>
-    <meta charset='utf-8'>
     <title>My blank page</title>
   </head>
   <body>
     <h1>My blank page</h1>
+    <div id='container'></div>
+    <script id='myTemplate' type='text/ractive'>
+      <p>{{greeting}}, {{recipient}}!</p>
+    </script>
+    <script src='/js/Ractive.js'></script>
+    <script src='/js/62nd.js'></script>
   </body>
 </html>
